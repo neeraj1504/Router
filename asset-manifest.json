@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Router/static/css/main.5bf8707f.css",
+    "main.js": "/Router/static/js/main.3536caf7.js",
+    "static/media/3.jpg": "/Router/static/media/3.88ee051ad9999f3568a2.jpg",
+    "static/media/2.jpg": "/Router/static/media/2.d1bee535306eba0598d7.jpg",
+    "static/media/1.jpg": "/Router/static/media/1.5a5aee8fad11f088a3c5.jpg",
+    "static/media/4.jpg": "/Router/static/media/4.ce030037bd23e37cc1cf.jpg",
+    "index.html": "/Router/index.html",
+    "main.5bf8707f.css.map": "/Router/static/css/main.5bf8707f.css.map",
+    "main.3536caf7.js.map": "/Router/static/js/main.3536caf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf8707f.css",
+    "static/js/main.3536caf7.js"
+  ]
+}
